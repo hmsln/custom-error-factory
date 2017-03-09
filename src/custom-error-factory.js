@@ -41,7 +41,7 @@ var customErrorFactory = function (TypeOfError, name, defaultMessage) {
 		
         /*
         bind stack trace to instance, without capturing the lines where CustomError is defined, so the stack trace
-        stops at the line where custom error is thrown
+        stops at the line where custom error is thrown (test)
         */
        	Error.captureStackTrace(this, CustomError);
 	}
