@@ -1,7 +1,7 @@
 {
   "name": "custom-error-factory",
   "version": "1.0.0",
-  "description": "A factory to create instantiable custom error objects, extending native error types.",
+  "description": "A factory to create instantiable custom error objects, extending native error types",
   "keywords": [
     "error",
     "custom",
@@ -16,6 +16,10 @@
   },
   "engines": {
     "node": "4.1.2"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/hmsln/custom-error-factory.git"
   },
   "author": "Hubert Maslin <hubert.maslin@gmail.com>",
   "license": "MIT"
