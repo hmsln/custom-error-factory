@@ -4,6 +4,8 @@
 
 Using custom error classes allows you to store more information,a nd in a clearer way, than in a standard object. This can make custom errors easier to retrieve and analyse once being logged.
 
+## Installation
+
 Install with the command ```npm install custom-error-factory```
 
 ## Creating a custom error class
