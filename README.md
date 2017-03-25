@@ -71,5 +71,6 @@ You can run the tests with the commands ```jasmine-node test``` or ```npm run te
 Perhaps some integration with an error logging library? This would be a good way to leverage the extra information
 that can be stored in a custom error object.
 
+## Contact
 Thank you for reading this far. If you have any bugs to report or improvements to suggest you can send me an email
 at hubert.maslin@gmail.com.
